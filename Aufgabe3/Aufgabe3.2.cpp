@@ -1,5 +1,5 @@
 #include<iostream>
-#include "gettype.h"
+#include "Aufgabe3.2.h"
 using namespace std;
 int main() {
     // Ausgabe
