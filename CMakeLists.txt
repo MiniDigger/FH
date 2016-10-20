@@ -3,5 +3,5 @@ project(FH)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 
-set(SOURCE_FILES Aufgabe4/Aufgabe4.2.cpp)
+set(SOURCE_FILES Aufgabe4/IntMenge.cpp Aufgabe4/Aufgabe4.3.cpp)
 add_executable(FH ${SOURCE_FILES})
