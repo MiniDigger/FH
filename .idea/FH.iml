@@ -2,13 +2,9 @@
 <module type="CPP_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/Aufgabe7/Aufgabe7.1.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Aufgabe7/Person.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Aufgabe7/Person.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Aufgabe7/Professor.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Aufgabe7/Student.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Aufgabe7/Professor.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Aufgabe7/Student.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Aufgabe8/rational.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Aufgabe8/rational.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Aufgabe8/rationalMain.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />

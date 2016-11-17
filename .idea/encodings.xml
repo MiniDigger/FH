@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-<<<<<<< Updated upstream
-    <file url="file://$PROJECT_DIR$/Aufgabe6/meinstring.cpp" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/Aufgabe6/meinstring.h" charset="ISO-8859-1" />
-=======
-    <file url="file://$PROJECT_DIR$/Aufgabe4/rational.h" charset="ISO-8859-1" />
->>>>>>> Stashed changes
+    <file url="file://$PROJECT_DIR$/Aufgabe8/datum.cpp" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/Aufgabe8/datum.h" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/Aufgabe8/rational.h" charset="ISO-8859-1" />
   </component>
 </project>
