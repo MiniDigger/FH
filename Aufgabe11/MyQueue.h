@@ -19,9 +19,7 @@ class MyQueue {
 
 public:
     MyQueue(initializer_list<T> init) {
-        for (auto x : init) {
-            push_back(x);
-        }
+        list = init;
     };
 
     MyQueue(MyQueue &&queue) {
@@ -66,6 +64,7 @@ public:
     bool empty() {
         return list.empty();
     }
+
 private:
     list<T> list;
 };
